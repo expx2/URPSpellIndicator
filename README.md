@@ -39,4 +39,4 @@ To affect only specific objects (or to exclude), enable Use Rendering Layers and
 
 ## Contact
 
-📧expx2.dev@gmail.com
+📧expx2@naver.com
